@@ -3,7 +3,7 @@
 ## Instalace pro windows
 
 1. Klonuj repozitář:
-   git clone https://github.com/Undeadprogramming/IC2.git
+   git clone https://github.com/Undeadprogramming/IC2-projekt.git
 
 2. Vytvoř virtuální prostředí:
    python -m venv venv  
